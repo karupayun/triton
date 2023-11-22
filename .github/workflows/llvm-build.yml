@@ -5,7 +5,7 @@ on:
     branches:
       - llvm-head
     paths:
-      - llvm-hash.txt
+      - cmake/llvm-hash.txt
   workflow_dispatch:
 
 env:
